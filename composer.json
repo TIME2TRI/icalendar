@@ -1,0 +1,10 @@
+{
+    "name": "time2tri/icalendar",
+    "authors": [
+        {
+            "name": "Soeren Kroell",
+            "email": "soeren@time2tri.me"
+        }
+    ],
+    "require": {}
+}
